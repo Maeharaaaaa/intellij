@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ModelBase" type="CLASS" />
+      <mapping ext="xml_cp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
