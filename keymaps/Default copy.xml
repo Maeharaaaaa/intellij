@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Android.RunAndroidSdkManager">
+    <mouse-shortcut keystroke="button1 doubleClick" />
+  </action>
+</keymap>
